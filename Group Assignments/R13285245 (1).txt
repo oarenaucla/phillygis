@@ -1,0 +1,380 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13285245
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2021 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2021 (5-Year Estimates)
+Tables:
+
+      1. Housing Units
+         Universe:  Housing units
+         Name:      A10001
+         Variables:
+            A10001_001:   Housing Units
+
+
+      2. Total Population
+         Universe:  Total Population
+         Name:      A00001
+         Variables:
+            A00001_001:   Total Population
+
+
+      3. Households by Household Type
+         Universe:  Households
+         Name:      A10008
+         Variables:
+            A10008_001:   Households:
+            A10008_002:      Family Households:
+            A10008_003:         Married-Couple Family
+            A10008_004:         Other Family:
+            A10008_005:            Male Householder, No Wife Present
+            A10008_006:            Female Householder, No Husband Present
+            A10008_007:      Nonfamily Households:
+            A10008_008:         Male Householder
+            A10008_009:         Female Householder
+
+
+      4. Housing Units by Household Size
+         Universe:  Universe:  Occupied housing units
+         Name:      A10024
+         Variables:
+            A10024_001:   Occupied Housing Units:
+            A10024_002:      1-Person Household
+            A10024_003:      2-Person Household
+            A10024_004:      3-Person Household
+            A10024_005:      4-Person Household
+            A10024_006:      5-Person Household
+            A10024_007:      6-Person Household
+            A10024_008:      7-or-More Person Household
+
+
+      5. Average Household Size
+         Universe:  Occupied Households
+         Name:      A10003
+         Variables:
+            A10003_001:   Average Household Size
+
+
+      6. Tenure
+         Universe:  Occupied Housing Units
+         Name:      A10060
+         Variables:
+            A10060_001:   Occupied Housing Units:
+            A10060_002:      Owner Occupied
+            A10060_003:      Renter Occupied
+
+
+      7. White vs Non-White Homeowners
+         Universe:  Owner Occupied Housing Units
+         Name:      B10060
+         Variables:
+            B10060_001:   Owner Occupied Housing Units:
+            B10060_002:      White Alone, Not Hispanic or Latino Homeowners 
+            B10060_003:      Non-White Homeowners
+
+
+      8. Occupancy Status
+         Universe:  Housing units
+         Name:      A10044
+         Variables:
+            A10044_001:   Housing Units:
+            A10044_002:      Occupied
+            A10044_003:      Vacant
+
+
+      9. Vacancy Status by Type of Vacancy
+         Universe:  Vacant housing units
+         Name:      A10047
+         Variables:
+            A10047_001:   Vacant Housing Units:
+            A10047_002:      For Rent
+            A10047_003:      For Sale Only
+            A10047_004:      Other Vacant
+
+
+      10. Housing Units in Structure
+          Universe:  Housing Units
+          Name:      A10032
+          Variables:
+             A10032_001:   Housing Units:
+             A10032_002:      1 Unit:
+             A10032_003:         1, Detached
+             A10032_004:         1, Attached
+             A10032_005:      2
+             A10032_006:      3 or 4
+             A10032_007:      5 to 9
+             A10032_008:      10 to 19
+             A10032_009:      20 to 49
+             A10032_010:      50 or More
+             A10032_011:      Mobile Home
+             A10032_012:      Boat, Rv, Van, Etc.
+
+
+      11. Occupied Housing Units by Year Structure Built
+          Universe:  Universe:  Occupied housing units
+          Name:      A10055
+          Variables:
+             A10055_001:   Occupied Housing Units:
+             A10055_002:      Built 2020 or Later
+             A10055_003:      Built 2010 to 2019
+             A10055_004:      Built 2000 to 2009
+             A10055_005:      Built 1990 to 1999
+             A10055_006:      Built 1980 to 1989
+             A10055_007:      Built 1970 to 1979
+             A10055_008:      Built 1960 to 1969
+             A10055_009:      Built 1950 to 1959
+             A10055_010:      Built 1940 to 1949
+             A10055_011:      Built 1939 or Earlier
+
+
+      12. Median House Value for All Owner-Occupied Housing Units
+          Universe:  Owner-occupied housing units
+          Name:      A10036
+          Variables:
+             A10036_001:   Median Value
+
+
+      13. Gross Rent (Housing Units with Cash Rent)
+          Universe:  Renter-occupied housing units with cash rent
+          Name:      A18001
+          Variables:
+             A18001_001:   Renter-Occupied Housing Units with Cash Rent:
+             A18001_002:      Less than $300
+             A18001_003:      $300 to $599
+             A18001_004:      $600 to $799
+             A18001_005:      $800 to $999
+             A18001_006:      $1,000 to $1,249
+             A18001_007:      $1,250 to $1,499
+             A18001_008:      $1,500 to $1,999
+             A18001_009:      $2,000 or More
+
+
+      14. Median Gross Rent
+          Universe:  Renter-occupied housing units paying cash rent
+          Name:      A18009
+          Variables:
+             A18009_001:   Median Gross Rent
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FILEID:         File identification
+      STUSAB:         State Postal Abbreviation
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Census Region
+      DIVISION:       Census Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS Code)
+      COUNTY:         County of current residence
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/AlaskaNative Area/ Hawaiian Home Land(Census)
+      AIANHHFP:       American Indian Area/AlaskaNative Area/ Hawaiian Home Land(FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian TribalSubdivision (Census)
+      AITS:           American Indian TribalSubdivision (FIPS)
+      ANRC:           Alaska Native RegionalCorporation (FIPS)
+      CBSA:           Metropolitan and MicropolitanStatistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Statistical Area-Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/MicropolitanIndicator Flag
+      NECTA:          New England City and Town Area
+      CNECTA:         New England City and TownCombined Statistical Area
+      NECTADIV:       New England City and Town AreaDivision
+      UA:             Urban Area
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      ZCTA5:          5-digit ZIP Code Tabulation Area
+      SUBMCD:         Subminor Civil Division (FIPS)
+      SDELM:          State-School District (Elementary)
+      SDSEC:          State-School District (Secondary)
+      SDUNI:          State-School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      PUMA5:          Public Use Microdata Area – 5%File
+      GEOID:          Geographic Identifier
+      NAME:           Area Name
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      QName:          Qualifying Name
+      FIPS:           FIPS
+      AREALAND:       Area (Land)
+      AREAWATR:       Area (Water)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      UACP:           Urban Area Central Place
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      PUMA1:          Public Use Microdata Area - 1% File
+      A10001_001:     Housing Units
+      A00001_001:     Total Population
+      A10008_001:     Households:
+      A10008_002:     Households: Family Households
+      A10008_003:     Households: Family Households: Married-Couple Family
+      A10008_004:     Households: Family Households: Other Family
+      A10008_005:     Households: Family Households: Other Family: Male Householder, No Wife Present
+      A10008_006:     Households: Family Households: Other Family: Female Householder, No Husband Present
+      A10008_007:     Households: Nonfamily Households
+      A10008_008:     Households: Nonfamily Households: Male Householder
+      A10008_009:     Households: Nonfamily Households: Female Householder
+      PCT_A10008_002: % Households: Family Households
+      PCT_A10008_003: % Households: Family Households: Married-Couple Family
+      PCT_A10008_004: % Households: Family Households: Other Family
+      PCT_A10008_005: % Households: Family Households: Other Family: Male Householder, No Wife Present
+      PCT_A10008_006: % Households: Family Households: Other Family: Female Householder, No Husband Present
+      PCT_A10008_007: % Households: Nonfamily Households
+      PCT_A10008_008: % Households: Nonfamily Households: Male Householder
+      PCT_A10008_009: % Households: Nonfamily Households: Female Householder
+      A10024_001:     Occupied Housing Units
+      A10024_002:     Occupied Housing Units: 1-Person Household
+      A10024_003:     Occupied Housing Units: 2-Person Household
+      A10024_004:     Occupied Housing Units: 3-Person Household
+      A10024_005:     Occupied Housing Units: 4-Person Household
+      A10024_006:     Occupied Housing Units: 5-Person Household
+      A10024_007:     Occupied Housing Units: 6-Person Household
+      A10024_008:     Occupied Housing Units: 7-or-More Person Household
+      PCT_A10024_002: % Occupied Housing Units: 1-Person Household
+      PCT_A10024_003: % Occupied Housing Units: 2-Person Household
+      PCT_A10024_004: % Occupied Housing Units: 3-Person Household
+      PCT_A10024_005: % Occupied Housing Units: 4-Person Household
+      PCT_A10024_006: % Occupied Housing Units: 5-Person Household
+      PCT_A10024_007: % Occupied Housing Units: 6-Person Household
+      PCT_A10024_008: % Occupied Housing Units: 7-or-More Person Household
+      A10003_001:     Average Household Size
+      A10060_001:     Occupied Housing Units:
+      A10060_002:     Occupied Housing Units: Owner Occupied
+      A10060_003:     Occupied Housing Units: Renter Occupied
+      PCT_A10060_002: % Occupied Housing Units: Owner Occupied
+      PCT_A10060_003: % Occupied Housing Units: Renter Occupied
+      B10060_001:     Owner Occupied Housing Units
+      B10060_002:     Owner Occupied Housing Units: White Alone, Not Hispanic or Latino Homeowners 
+      B10060_003:     Owner Occupied Housing Units: Non-White Homeowners
+      PCT_B10060_002: % Owner Occupied Housing Units: White Alone, Not Hispanic or Latino Homeowners 
+      PCT_B10060_003: % Owner Occupied Housing Units: Non-White Homeowners
+      A10044_001:     Housing Units:
+      A10044_002:     Housing Units: Occupied
+      A10044_003:     Housing Units: Vacant
+      PCT_A10044_002: % Housing Units: Occupied
+      PCT_A10044_003: % Housing Units: Vacant
+      A10047_001:     Vacant Housing Units:
+      A10047_002:     Vacant Housing Units: for Rent
+      A10047_003:     Vacant Housing Units: for Sale Only
+      A10047_004:     Vacant Housing Units: Other Vacant
+      PCT_A10047_002: % Vacant Housing Units: for Rent
+      PCT_A10047_003: % Vacant Housing Units: for Sale Only
+      PCT_A10047_004: % Vacant Housing Units: Other Vacant
+      A10032_001:     Housing Units:
+      A10032_002:     Housing Units: 1 Unit
+      A10032_003:     Housing Units: 1 Unit: 1, Detached
+      A10032_004:     Housing Units: 1 Unit: 1, Attached
+      A10032_005:     Housing Units: 2
+      A10032_006:     Housing Units: 3 or 4
+      A10032_007:     Housing Units: 5 to 9
+      A10032_008:     Housing Units: 10 to 19
+      A10032_009:     Housing Units: 20 to 49
+      A10032_010:     Housing Units: 50 or More
+      A10032_011:     Housing Units: Mobile Home
+      A10032_012:     Housing Units: Boat, Rv, Van, Etc.
+      PCT_A10032_002: % Housing Units: 1 Unit
+      PCT_A10032_003: % Housing Units: 1 Unit: 1, Detached
+      PCT_A10032_004: % Housing Units: 1 Unit: 1, Attached
+      PCT_A10032_005: % Housing Units: 2
+      PCT_A10032_006: % Housing Units: 3 or 4
+      PCT_A10032_007: % Housing Units: 5 to 9
+      PCT_A10032_008: % Housing Units: 10 to 19
+      PCT_A10032_009: % Housing Units: 20 to 49
+      PCT_A10032_010: % Housing Units: 50 or More
+      PCT_A10032_011: % Housing Units: Mobile Home
+      PCT_A10032_012: % Housing Units: Boat, Rv, Van, Etc.
+      A10055_001:     Occupied Housing Units
+      A10055_002:     Occupied Housing Units: Built 2020 or Later
+      A10055_003:     Occupied Housing Units: Built 2010 to 2019
+      A10055_004:     Occupied Housing Units: Built 2000 to 2009
+      A10055_005:     Occupied Housing Units: Built 1990 to 1999
+      A10055_006:     Occupied Housing Units: Built 1980 to 1989
+      A10055_007:     Occupied Housing Units: Built 1970 to 1979
+      A10055_008:     Occupied Housing Units: Built 1960 to 1969
+      A10055_009:     Occupied Housing Units: Built 1950 to 1959
+      A10055_010:     Occupied Housing Units: Built 1940 to 1949
+      A10055_011:     Occupied Housing Units: Built 1939 or Earlier
+      PCT_A10055_002: % Occupied Housing Units: Built 2020 or Later
+      PCT_A10055_003: % Occupied Housing Units: Built 2010 to 2019
+      PCT_A10055_004: % Occupied Housing Units: Built 2000 to 2009
+      PCT_A10055_005: % Occupied Housing Units: Built 1990 to 1999
+      PCT_A10055_006: % Occupied Housing Units: Built 1980 to 1989
+      PCT_A10055_007: % Occupied Housing Units: Built 1970 to 1979
+      PCT_A10055_008: % Occupied Housing Units: Built 1960 to 1969
+      PCT_A10055_009: % Occupied Housing Units: Built 1950 to 1959
+      PCT_A10055_010: % Occupied Housing Units: Built 1940 to 1949
+      PCT_A10055_011: % Occupied Housing Units: Built 1939 or Earlier
+      A10036_001:     Median Value
+      A18001_001:     Renter-Occupied Housing Units with Cash Rent:
+      A18001_002:     Renter-Occupied Housing Units with Cash Rent: Less than $300
+      A18001_003:     Renter-Occupied Housing Units with Cash Rent: $300 to $599
+      A18001_004:     Renter-Occupied Housing Units with Cash Rent: $600 to $799
+      A18001_005:     Renter-Occupied Housing Units with Cash Rent: $800 to $999
+      A18001_006:     Renter-Occupied Housing Units with Cash Rent: $1,000 to $1,249
+      A18001_007:     Renter-Occupied Housing Units with Cash Rent: $1,250 to $1,499
+      A18001_008:     Renter-Occupied Housing Units with Cash Rent: $1,500 to $1,999
+      A18001_009:     Renter-Occupied Housing Units with Cash Rent: $2,000 or More
+      PCT_A18001_002: % Renter-Occupied Housing Units with Cash Rent: Less than $300
+      PCT_A18001_003: % Renter-Occupied Housing Units with Cash Rent: $300 to $599
+      PCT_A18001_004: % Renter-Occupied Housing Units with Cash Rent: $600 to $799
+      PCT_A18001_005: % Renter-Occupied Housing Units with Cash Rent: $800 to $999
+      PCT_A18001_006: % Renter-Occupied Housing Units with Cash Rent: $1,000 to $1,249
+      PCT_A18001_007: % Renter-Occupied Housing Units with Cash Rent: $1,250 to $1,499
+      PCT_A18001_008: % Renter-Occupied Housing Units with Cash Rent: $1,500 to $1,999
+      PCT_A18001_009: % Renter-Occupied Housing Units with Cash Rent: $2,000 or More
+      A18009_001:     Median Gross Rent
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13285245
+
+If you have any questions contact info@socialexplorer.com
