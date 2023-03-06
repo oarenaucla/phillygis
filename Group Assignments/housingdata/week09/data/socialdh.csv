@@ -1,0 +1,451 @@
+﻿OBJECTID,GEOGRAPHY_NAME,METRIC_NAME,YEAR,METRIC_VALUE,SOURCE,GEOGRAPHY,Shape__Area,Shape__Length
+1,Central,percent_of_adult_population_without_bachelors_degree,2019,24.99331039,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+2,Central,unemployment_rate_in_population_16_and_older,2019,3.38566518,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+3,Central,percent_of_population_with_a_disability,2019,9.29379229,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+4,Central,percent_of_population_reporting_no_checkup_in_past_year,2019,23.0900864,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,28221330.1835938,28401.8230651796
+5,Central,percent_of_population_identifying_as_nh_white,2019,67.25083398,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+6,Central,percent_of_population_without_health_insurance,2014,7.28328061,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+7,Central,percent_of_population_identifying_as_nh_black,2019,12.69097778,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+8,Central,percent_of_population_with_a_disability,2014,8.91055154,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+9,Central,percent_of_adult_population_without_bachelors_degree,2014,29.4310723,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+10,Central,percent_of_population_identifying_as_nh_asian,2014,9.23900632,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+11,Central,percent_of_population_identifying_as_hispanic,2014,6.50105306,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+12,Central,percent_of_population_identifying_as_nh_black,2014,14.69968789,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+13,Central,unemployment_rate_in_population_16_and_older,2014,6.29668683,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+14,Central,percent_of_population_age_65_or_older,2019,14.34294506,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+15,Central,percent_of_population_age_65_or_older,2014,12.82211508,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+16,Central,percent_of_population_without_health_insurance,2019,3.5866576,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+17,Central,percent_of_population_in_poverty,2014,14.39289636,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+18,Central,percent_of_population_identifying_as_nh_white,2010,67.00645426,Decennial Census Count,Planning district,28221330.1835938,28401.8230651796
+19,Central,percent_of_population_identifying_as_nh_white,2014,66.78508293,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+20,Central,percent_of_population_in_poverty,2019,11.18813743,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+21,Central,percent_of_population_identifying_as_nh_black,2010,15.42362463,Decennial Census Count,Planning district,28221330.1835938,28401.8230651796
+22,Central,percent_of_population_identifying_as_nh_asian,2019,10.8272784,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+23,Central,percent_of_population_identifying_as_hispanic,2010,5.43830892,Decennial Census Count,Planning district,28221330.1835938,28401.8230651796
+24,Central,percent_of_population_identifying_as_hispanic,2019,5.73428384,American Community Survey 5-Year Estimates,Planning district,28221330.1835938,28401.8230651796
+25,Central,percent_of_population_identifying_as_nh_asian,2010,9.57722911,Decennial Census Count,Planning district,28221330.1835938,28401.8230651796
+26,Central Northeast,percent_of_population_age_65_or_older,2019,15.47057305,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+27,Central Northeast,unemployment_rate_in_population_16_and_older,2019,7.14223642,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+28,Central Northeast,percent_of_population_age_65_or_older,2014,14.93849304,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+29,Central Northeast,percent_of_population_without_health_insurance,2014,17.55070014,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+30,Central Northeast,unemployment_rate_in_population_16_and_older,2014,12.19382329,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+31,Central Northeast,percent_of_population_identifying_as_hispanic,2019,16.98593798,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+32,Central Northeast,percent_of_population_identifying_as_nh_asian,2014,12.26758719,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+33,Central Northeast,percent_of_population_identifying_as_nh_asian,2019,14.37190412,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+34,Central Northeast,percent_of_population_without_health_insurance,2019,10.57850452,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+35,Central Northeast,percent_of_adult_population_without_bachelors_degree,2014,79.52679158,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+36,Central Northeast,percent_of_population_identifying_as_nh_black,2014,14.55898107,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+37,Central Northeast,percent_of_population_in_poverty,2014,15.53416863,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+38,Central Northeast,percent_of_population_identifying_as_hispanic,2010,11.03672093,Decennial Census Count,Planning district,36161902.3125,33483.0388867772
+39,Central Northeast,percent_of_population_identifying_as_nh_asian,2010,11.82122505,Decennial Census Count,Planning district,36161902.3125,33483.0388867772
+40,Central Northeast,percent_of_population_identifying_as_nh_white,2014,58.24187597,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+41,Central Northeast,percent_of_population_with_a_disability,2014,14.00531144,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+42,Central Northeast,percent_of_population_with_a_disability,2019,14.88093819,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+43,Central Northeast,percent_of_population_in_poverty,2019,17.9838565,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+44,Central Northeast,percent_of_population_reporting_no_checkup_in_past_year,2019,21.23811361,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,36161902.3125,33483.0388867772
+45,Central Northeast,percent_of_adult_population_without_bachelors_degree,2019,74.72852409,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+46,Central Northeast,percent_of_population_identifying_as_nh_black,2019,17.46954011,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+47,Central Northeast,percent_of_population_identifying_as_nh_black,2010,11.62957095,Decennial Census Count,Planning district,36161902.3125,33483.0388867772
+48,Central Northeast,percent_of_population_identifying_as_nh_white,2019,46.64647745,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+49,Central Northeast,percent_of_population_identifying_as_nh_white,2010,62.46901592,Decennial Census Count,Planning district,36161902.3125,33483.0388867772
+50,Central Northeast,percent_of_population_identifying_as_hispanic,2014,11.82359243,American Community Survey 5-Year Estimates,Planning district,36161902.3125,33483.0388867772
+51,Lower Far Northeast,percent_of_adult_population_without_bachelors_degree,2019,76.53258354,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+52,Lower Far Northeast,percent_of_adult_population_without_bachelors_degree,2014,79.80717699,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+53,Lower Far Northeast,unemployment_rate_in_population_16_and_older,2019,5.37005774,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+54,Lower Far Northeast,percent_of_population_identifying_as_nh_white,2010,79.57634347,Decennial Census Count,Planning district,48752522.9375,36958.0713330809
+55,Lower Far Northeast,percent_of_population_identifying_as_nh_black,2010,8.15894228,Decennial Census Count,Planning district,48752522.9375,36958.0713330809
+56,Lower Far Northeast,percent_of_population_identifying_as_nh_black,2014,9.02802138,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+57,Lower Far Northeast,percent_of_population_identifying_as_nh_asian,2019,4.39245116,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+58,Lower Far Northeast,percent_of_population_identifying_as_nh_asian,2014,5.72074031,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+59,Lower Far Northeast,percent_of_population_identifying_as_hispanic,2019,9.72850679,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+60,Lower Far Northeast,percent_of_population_reporting_no_checkup_in_past_year,2019,21.40492621,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,48752522.9375,36958.0713330809
+61,Lower Far Northeast,percent_of_population_identifying_as_nh_asian,2010,4.15410862,Decennial Census Count,Planning district,48752522.9375,36958.0713330809
+62,Lower Far Northeast,percent_of_population_identifying_as_hispanic,2010,6.21268126,Decennial Census Count,Planning district,48752522.9375,36958.0713330809
+63,Lower Far Northeast,percent_of_population_without_health_insurance,2014,8.26636696,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+64,Lower Far Northeast,percent_of_population_with_a_disability,2019,14.08015025,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+65,Lower Far Northeast,percent_of_population_with_a_disability,2014,14.22871593,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+66,Lower Far Northeast,percent_of_population_identifying_as_nh_white,2019,72.85481735,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+67,Lower Far Northeast,percent_of_population_identifying_as_nh_white,2014,77.21806727,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+68,Lower Far Northeast,percent_of_population_in_poverty,2014,9.6645525,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+69,Lower Far Northeast,percent_of_population_in_poverty,2019,8.39147314,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+70,Lower Far Northeast,percent_of_population_identifying_as_hispanic,2014,6.59070818,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+71,Lower Far Northeast,percent_of_population_age_65_or_older,2014,16.3453576,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+72,Lower Far Northeast,percent_of_population_without_health_insurance,2019,5.90769741,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+73,Lower Far Northeast,unemployment_rate_in_population_16_and_older,2014,10.97500614,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+74,Lower Far Northeast,percent_of_population_age_65_or_older,2019,16.28407461,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+75,Lower Far Northeast,percent_of_population_identifying_as_nh_black,2019,10.83765589,American Community Survey 5-Year Estimates,Planning district,48752522.9375,36958.0713330809
+76,Lower North,percent_of_population_identifying_as_nh_black,2010,67.03685803,Decennial Census Count,Planning district,26043094.78125,23444.1876901763
+77,Lower North,percent_of_population_identifying_as_nh_white,2010,13.85013028,Decennial Census Count,Planning district,26043094.78125,23444.1876901763
+78,Lower North,percent_of_adult_population_without_bachelors_degree,2019,81.35274004,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+79,Lower North,percent_of_population_in_poverty,2014,46.00538652,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+80,Lower North,percent_of_population_age_65_or_older,2019,10.40602372,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+81,Lower North,percent_of_population_identifying_as_nh_asian,2010,2.02677145,Decennial Census Count,Planning district,26043094.78125,23444.1876901763
+82,Lower North,percent_of_population_identifying_as_hispanic,2010,15.07312768,Decennial Census Count,Planning district,26043094.78125,23444.1876901763
+83,Lower North,unemployment_rate_in_population_16_and_older,2014,20.97443858,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+84,Lower North,percent_of_population_identifying_as_nh_white,2019,16.18542046,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+85,Lower North,percent_of_adult_population_without_bachelors_degree,2014,88.95384906,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+86,Lower North,unemployment_rate_in_population_16_and_older,2019,14.19529973,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+87,Lower North,percent_of_population_in_poverty,2019,41.85119679,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+88,Lower North,percent_of_population_identifying_as_nh_black,2019,61.38776598,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+89,Lower North,percent_of_population_identifying_as_nh_black,2014,63.90670877,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+90,Lower North,percent_of_population_identifying_as_nh_asian,2019,3.63600018,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+91,Lower North,percent_of_population_identifying_as_nh_asian,2014,2.31676915,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+92,Lower North,percent_of_population_identifying_as_hispanic,2019,16.39531784,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+93,Lower North,percent_of_population_identifying_as_hispanic,2014,17.07273835,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+94,Lower North,percent_of_population_age_65_or_older,2014,9.62373276,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+95,Lower North,percent_of_population_without_health_insurance,2019,9.48404047,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+96,Lower North,percent_of_population_without_health_insurance,2014,14.45857168,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+97,Lower North,percent_of_population_with_a_disability,2019,20.90670244,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+98,Lower North,percent_of_population_with_a_disability,2014,19.38907758,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+99,Lower North,percent_of_population_reporting_no_checkup_in_past_year,2019,19.81788266,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,26043094.78125,23444.1876901763
+100,Lower North,percent_of_population_identifying_as_nh_white,2014,14.86344247,American Community Survey 5-Year Estimates,Planning district,26043094.78125,23444.1876901763
+101,Lower Northeast,percent_of_population_age_65_or_older,2014,8.14617282,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+102,Lower Northeast,percent_of_population_identifying_as_hispanic,2014,24.51759137,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+103,Lower Northeast,percent_of_population_identifying_as_nh_white,2014,21.70136799,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+104,Lower Northeast,percent_of_population_without_health_insurance,2019,12.19221824,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+105,Lower Northeast,percent_of_population_identifying_as_nh_white,2019,15.78511408,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+106,Lower Northeast,percent_of_population_with_a_disability,2019,18.79545203,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+107,Lower Northeast,percent_of_population_identifying_as_nh_black,2014,43.4137682,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+108,Lower Northeast,percent_of_population_with_a_disability,2014,18.11609525,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+109,Lower Northeast,percent_of_population_without_health_insurance,2014,18.37386095,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+110,Lower Northeast,percent_of_population_age_65_or_older,2019,9.30485122,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+111,Lower Northeast,unemployment_rate_in_population_16_and_older,2019,12.68356909,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+112,Lower Northeast,percent_of_population_identifying_as_nh_black,2019,44.34944272,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+113,Lower Northeast,percent_of_population_reporting_no_checkup_in_past_year,2019,21.8179733,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,26196613.453125,26173.9911320562
+114,Lower Northeast,unemployment_rate_in_population_16_and_older,2014,18.72367587,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+115,Lower Northeast,percent_of_population_identifying_as_hispanic,2019,29.59789421,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+116,Lower Northeast,percent_of_population_in_poverty,2019,30.78249263,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+117,Lower Northeast,percent_of_population_identifying_as_nh_asian,2014,7.57712521,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+118,Lower Northeast,percent_of_population_identifying_as_nh_black,2010,43.59785298,Decennial Census Count,Planning district,26196613.453125,26173.9911320562
+119,Lower Northeast,percent_of_population_in_poverty,2014,29.96385153,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+120,Lower Northeast,percent_of_population_identifying_as_hispanic,2010,23.15128901,Decennial Census Count,Planning district,26196613.453125,26173.9911320562
+121,Lower Northeast,percent_of_population_identifying_as_nh_asian,2019,7.13740072,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+122,Lower Northeast,percent_of_adult_population_without_bachelors_degree,2019,87.10366179,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+123,Lower Northeast,percent_of_population_identifying_as_nh_white,2010,22.59158752,Decennial Census Count,Planning district,26196613.453125,26173.9911320562
+124,Lower Northeast,percent_of_adult_population_without_bachelors_degree,2014,88.5468729,American Community Survey 5-Year Estimates,Planning district,26196613.453125,26173.9911320562
+125,Lower Northeast,percent_of_population_identifying_as_nh_asian,2010,7.51556389,Decennial Census Count,Planning district,26196613.453125,26173.9911320562
+126,Lower Northwest,percent_of_adult_population_without_bachelors_degree,2014,51.64906444,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+127,Lower Northwest,percent_of_population_age_65_or_older,2014,12.69665498,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+128,Lower Northwest,unemployment_rate_in_population_16_and_older,2019,4.89770061,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+129,Lower Northwest,percent_of_adult_population_without_bachelors_degree,2019,43.18579707,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+130,Lower Northwest,percent_of_population_identifying_as_nh_black,2019,13.72236494,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+131,Lower Northwest,percent_of_population_identifying_as_nh_black,2014,10.47818381,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+132,Lower Northwest,unemployment_rate_in_population_16_and_older,2014,7.46390719,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+133,Lower Northwest,percent_of_population_identifying_as_nh_asian,2014,3.95972395,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+134,Lower Northwest,percent_of_population_age_65_or_older,2019,13.70361342,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+135,Lower Northwest,percent_of_population_in_poverty,2019,11.46802242,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+136,Lower Northwest,percent_of_population_identifying_as_nh_asian,2019,3.74467926,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+137,Lower Northwest,percent_of_population_without_health_insurance,2019,4.4015444,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+138,Lower Northwest,percent_of_population_identifying_as_nh_white,2014,79.70547196,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+139,Lower Northwest,percent_of_population_without_health_insurance,2014,8.82993429,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+140,Lower Northwest,percent_of_population_in_poverty,2014,14.1676985,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+141,Lower Northwest,percent_of_population_reporting_no_checkup_in_past_year,2019,23.230538,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,41028560.0703125,35327.2793669151
+142,Lower Northwest,percent_of_population_identifying_as_hispanic,2019,4.18909036,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+143,Lower Northwest,percent_of_population_identifying_as_hispanic,2010,3.19691333,Decennial Census Count,Planning district,41028560.0703125,35327.2793669151
+144,Lower Northwest,percent_of_population_identifying_as_nh_asian,2010,3.2835292,Decennial Census Count,Planning district,41028560.0703125,35327.2793669151
+145,Lower Northwest,percent_of_population_with_a_disability,2014,10.30884887,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+146,Lower Northwest,percent_of_population_with_a_disability,2019,10.90874847,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+147,Lower Northwest,percent_of_population_identifying_as_nh_white,2019,74.60293649,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+148,Lower Northwest,percent_of_population_identifying_as_nh_white,2010,82.22405953,Decennial Census Count,Planning district,41028560.0703125,35327.2793669151
+149,Lower Northwest,percent_of_population_identifying_as_hispanic,2014,3.59014972,American Community Survey 5-Year Estimates,Planning district,41028560.0703125,35327.2793669151
+150,Lower Northwest,percent_of_population_identifying_as_nh_black,2010,9.25805626,Decennial Census Count,Planning district,41028560.0703125,35327.2793669151
+151,Lower South,percent_of_population_with_a_disability,2014,12.628516,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+152,Lower South,percent_of_population_age_65_or_older,2014,22.7,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+153,Lower South,percent_of_population_with_a_disability,2019,16.37478109,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+154,Lower South,percent_of_population_reporting_no_checkup_in_past_year,2019,20.2,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,38578429.5234375,33784.8242263269
+155,Lower South,percent_of_population_age_65_or_older,2019,23.91040111,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+156,Lower South,percent_of_population_identifying_as_nh_black,2019,5.99062337,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+157,Lower South,percent_of_population_identifying_as_nh_white,2019,73.55443653,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+158,Lower South,percent_of_population_identifying_as_hispanic,2010,2.27184466,Decennial Census Count,Planning district,38578429.5234375,33784.8242263269
+159,Lower South,percent_of_population_identifying_as_nh_white,2014,80.79457364,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+160,Lower South,percent_of_population_identifying_as_nh_asian,2019,7.32766105,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+161,Lower South,percent_of_population_identifying_as_nh_asian,2010,5.06796117,Decennial Census Count,Planning district,38578429.5234375,33784.8242263269
+162,Lower South,percent_of_population_without_health_insurance,2014,5.37342386,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+163,Lower South,percent_of_population_identifying_as_nh_black,2010,10.23300971,Decennial Census Count,Planning district,38578429.5234375,33784.8242263269
+164,Lower South,percent_of_population_identifying_as_hispanic,2019,12.95363778,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+165,Lower South,percent_of_population_without_health_insurance,2019,4.79859895,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+166,Lower South,percent_of_population_identifying_as_nh_white,2010,81.37864078,Decennial Census Count,Planning district,38578429.5234375,33784.8242263269
+167,Lower South,percent_of_adult_population_without_bachelors_degree,2019,63.41240876,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+168,Lower South,percent_of_population_identifying_as_nh_black,2014,5.98837209,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+169,Lower South,percent_of_population_in_poverty,2014,5.23763337,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+170,Lower South,unemployment_rate_in_population_16_and_older,2014,9.4,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+171,Lower South,percent_of_population_identifying_as_hispanic,2014,4.20542636,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+172,Lower South,percent_of_population_in_poverty,2019,3.95796848,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+173,Lower South,percent_of_population_identifying_as_nh_asian,2014,8.50775194,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+174,Lower South,unemployment_rate_in_population_16_and_older,2019,3.1,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+175,Lower South,percent_of_adult_population_without_bachelors_degree,2014,67.4,American Community Survey 5-Year Estimates,Planning district,38578429.5234375,33784.8242263269
+176,Lower Southwest,percent_of_population_without_health_insurance,2019,8.99134098,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+177,Lower Southwest,percent_of_population_age_65_or_older,2014,9.85987225,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+178,Lower Southwest,unemployment_rate_in_population_16_and_older,2014,17.74219255,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+179,Lower Southwest,percent_of_population_age_65_or_older,2019,11.18047275,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+180,Lower Southwest,percent_of_adult_population_without_bachelors_degree,2014,86.69949297,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+181,Lower Southwest,percent_of_population_without_health_insurance,2014,19.17563163,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+182,Lower Southwest,percent_of_population_identifying_as_nh_black,2010,76.12840421,Decennial Census Count,Planning district,44293541.390625,34459.7408925873
+183,Lower Southwest,percent_of_population_identifying_as_nh_asian,2010,7.88517701,Decennial Census Count,Planning district,44293541.390625,34459.7408925873
+184,Lower Southwest,percent_of_population_identifying_as_hispanic,2014,2.90245216,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+185,Lower Southwest,percent_of_population_identifying_as_nh_white,2010,10.38772942,Decennial Census Count,Planning district,44293541.390625,34459.7408925873
+186,Lower Southwest,percent_of_population_identifying_as_nh_asian,2014,7.52043463,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+187,Lower Southwest,percent_of_population_reporting_no_checkup_in_past_year,2019,18.38188989,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,44293541.390625,34459.7408925873
+188,Lower Southwest,percent_of_adult_population_without_bachelors_degree,2019,86.78316242,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+189,Lower Southwest,unemployment_rate_in_population_16_and_older,2019,11.26199724,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+190,Lower Southwest,percent_of_population_identifying_as_nh_white,2019,7.73655047,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+191,Lower Southwest,percent_of_population_identifying_as_hispanic,2019,3.94192327,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+192,Lower Southwest,percent_of_population_identifying_as_nh_black,2019,79.01849384,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+193,Lower Southwest,percent_of_population_identifying_as_nh_asian,2019,6.74288654,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+194,Lower Southwest,percent_of_population_with_a_disability,2019,15.78516265,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+195,Lower Southwest,percent_of_population_in_poverty,2014,28.91444862,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+196,Lower Southwest,percent_of_population_identifying_as_hispanic,2010,3.12937769,Decennial Census Count,Planning district,44293541.390625,34459.7408925873
+197,Lower Southwest,percent_of_population_identifying_as_nh_black,2014,77.55127013,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+198,Lower Southwest,percent_of_population_with_a_disability,2014,13.37760678,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+199,Lower Southwest,percent_of_population_identifying_as_nh_white,2014,10.52811903,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+200,Lower Southwest,percent_of_population_in_poverty,2019,29.15570999,American Community Survey 5-Year Estimates,Planning district,44293541.390625,34459.7408925873
+201,North,percent_of_population_with_a_disability,2019,24.40274667,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+202,North,percent_of_population_age_65_or_older,2019,10.50635865,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+203,North,percent_of_population_with_a_disability,2014,21.48937068,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+204,North,percent_of_population_without_health_insurance,2014,17.32768687,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+205,North,unemployment_rate_in_population_16_and_older,2014,24.69045995,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+206,North,percent_of_population_identifying_as_nh_white,2010,6.21114408,Decennial Census Count,Planning district,37967053.75,29849.9900229057
+207,North,percent_of_population_identifying_as_hispanic,2014,48.67994539,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+208,North,unemployment_rate_in_population_16_and_older,2019,14.45592099,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+209,North,percent_of_population_identifying_as_nh_white,2019,6.16322483,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+210,North,percent_of_population_identifying_as_hispanic,2010,46.94121829,Decennial Census Count,Planning district,37967053.75,29849.9900229057
+211,North,percent_of_population_age_65_or_older,2014,8.41642525,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+212,North,percent_of_population_identifying_as_nh_black,2010,42.64376238,Decennial Census Count,Planning district,37967053.75,29849.9900229057
+213,North,percent_of_population_without_health_insurance,2019,10.26181471,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+214,North,percent_of_population_in_poverty,2019,41.09234018,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+215,North,percent_of_population_identifying_as_nh_white,2014,5.81650156,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+216,North,percent_of_population_identifying_as_hispanic,2019,50.57971649,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+217,North,percent_of_adult_population_without_bachelors_degree,2014,94.58525882,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+218,North,percent_of_population_identifying_as_nh_asian,2019,3.30329016,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+219,North,percent_of_population_identifying_as_nh_asian,2010,2.78783306,Decennial Census Count,Planning district,37967053.75,29849.9900229057
+220,North,percent_of_population_reporting_no_checkup_in_past_year,2019,22.30060864,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,37967053.75,29849.9900229057
+221,North,percent_of_population_identifying_as_nh_asian,2014,2.53089229,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+222,North,percent_of_adult_population_without_bachelors_degree,2019,91.10778054,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+223,North,percent_of_population_identifying_as_nh_black,2014,41.34980922,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+224,North,percent_of_population_identifying_as_nh_black,2019,38.25035002,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+225,North,percent_of_population_in_poverty,2014,46.28475551,American Community Survey 5-Year Estimates,Planning district,37967053.75,29849.9900229057
+226,North Delaware,percent_of_population_in_poverty,2019,18.36127608,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+227,North Delaware,percent_of_adult_population_without_bachelors_degree,2019,82.22428541,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+228,North Delaware,percent_of_adult_population_without_bachelors_degree,2014,85.14725829,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+229,North Delaware,unemployment_rate_in_population_16_and_older,2019,10.80213017,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+230,North Delaware,percent_of_population_with_a_disability,2019,14.75719838,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+231,North Delaware,percent_of_population_with_a_disability,2014,14.43777908,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+232,North Delaware,percent_of_population_identifying_as_nh_white,2019,54.11805676,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+233,North Delaware,percent_of_population_in_poverty,2014,18.57214066,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+234,North Delaware,percent_of_population_identifying_as_nh_white,2010,64.4135505,Decennial Census Count,Planning district,42853062.2109375,35525.3353117845
+235,North Delaware,percent_of_population_identifying_as_nh_black,2010,17.10009838,Decennial Census Count,Planning district,42853062.2109375,35525.3353117845
+236,North Delaware,percent_of_population_identifying_as_nh_asian,2010,3.84772088,Decennial Census Count,Planning district,42853062.2109375,35525.3353117845
+237,North Delaware,percent_of_population_identifying_as_nh_white,2014,64.08041024,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+238,North Delaware,unemployment_rate_in_population_16_and_older,2014,16.85188602,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+239,North Delaware,percent_of_population_age_65_or_older,2019,11.99823826,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+240,North Delaware,percent_of_population_age_65_or_older,2014,12.22647699,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+241,North Delaware,percent_of_population_identifying_as_hispanic,2010,12.35603343,Decennial Census Count,Planning district,42853062.2109375,35525.3353117845
+242,North Delaware,percent_of_population_without_health_insurance,2014,13.06436336,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+243,North Delaware,percent_of_population_identifying_as_nh_asian,2014,4.21335,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+244,North Delaware,percent_of_population_identifying_as_nh_black,2019,16.05944833,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+245,North Delaware,percent_of_population_identifying_as_nh_black,2014,15.73730932,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+246,North Delaware,percent_of_population_identifying_as_nh_asian,2019,7.32861489,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+247,North Delaware,percent_of_population_reporting_no_checkup_in_past_year,2019,23.17179199,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,42853062.2109375,35525.3353117845
+248,North Delaware,percent_of_population_identifying_as_hispanic,2019,19.63925393,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+249,North Delaware,percent_of_population_identifying_as_hispanic,2014,13.79707834,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+250,North Delaware,percent_of_population_without_health_insurance,2019,8.2023904,American Community Survey 5-Year Estimates,Planning district,42853062.2109375,35525.3353117845
+251,River Wards,percent_of_population_identifying_as_hispanic,2010,20.49234184,Decennial Census Count,Planning district,33389466.3710938,26635.5241132032
+252,River Wards,percent_of_adult_population_without_bachelors_degree,2019,73.4290445,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+253,River Wards,percent_of_adult_population_without_bachelors_degree,2014,80.76419767,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+254,River Wards,unemployment_rate_in_population_16_and_older,2019,8.67300528,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+255,River Wards,unemployment_rate_in_population_16_and_older,2014,19.35412618,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+256,River Wards,percent_of_population_age_65_or_older,2019,9.72084237,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+257,River Wards,percent_of_population_age_65_or_older,2014,9.37519766,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+258,River Wards,percent_of_population_without_health_insurance,2019,8.04818265,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+259,River Wards,percent_of_population_without_health_insurance,2014,16.36909183,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+260,River Wards,percent_of_population_with_a_disability,2019,17.73793683,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+261,River Wards,percent_of_population_with_a_disability,2014,20.29945634,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+262,River Wards,percent_of_population_identifying_as_nh_white,2019,62.69362625,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+263,River Wards,percent_of_population_identifying_as_nh_white,2014,63.19997627,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+264,River Wards,percent_of_population_identifying_as_nh_black,2019,8.98761632,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+265,River Wards,percent_of_population_identifying_as_nh_black,2014,11.30790797,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+266,River Wards,percent_of_population_identifying_as_nh_asian,2019,2.76219128,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+267,River Wards,percent_of_population_identifying_as_nh_asian,2014,3.14924421,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+268,River Wards,percent_of_population_identifying_as_hispanic,2019,23.79906248,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+269,River Wards,percent_of_population_identifying_as_hispanic,2014,20.31952294,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+270,River Wards,percent_of_population_in_poverty,2014,31.5308329,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+271,River Wards,percent_of_population_identifying_as_nh_white,2010,65.08490415,Decennial Census Count,Planning district,33389466.3710938,26635.5241132032
+272,River Wards,percent_of_population_identifying_as_nh_black,2010,10.06292981,Decennial Census Count,Planning district,33389466.3710938,26635.5241132032
+273,River Wards,percent_of_population_identifying_as_nh_asian,2010,2.43834776,Decennial Census Count,Planning district,33389466.3710938,26635.5241132032
+274,River Wards,percent_of_population_reporting_no_checkup_in_past_year,2019,24.37290952,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,33389466.3710938,26635.5241132032
+275,River Wards,percent_of_population_in_poverty,2019,24.0431176,American Community Survey 5-Year Estimates,Planning district,33389466.3710938,26635.5241132032
+276,South,percent_of_adult_population_without_bachelors_degree,2019,69.67957157,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+277,South,percent_of_population_age_65_or_older,2019,13.67535969,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+278,South,unemployment_rate_in_population_16_and_older,2019,9.29880116,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+279,South,unemployment_rate_in_population_16_and_older,2014,14.07963538,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+280,South,percent_of_population_with_a_disability,2019,15.60469979,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+281,South,percent_of_population_without_health_insurance,2019,9.39809062,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+282,South,percent_of_population_without_health_insurance,2014,16.82521331,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+283,South,percent_of_population_identifying_as_nh_asian,2014,15.08612503,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+284,South,percent_of_population_identifying_as_nh_black,2014,26.25388987,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+285,South,percent_of_population_identifying_as_nh_black,2019,21.43000394,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+286,South,percent_of_population_identifying_as_nh_asian,2019,16.22978704,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+287,South,percent_of_population_identifying_as_nh_white,2014,47.18906599,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+288,South,percent_of_population_identifying_as_hispanic,2019,10.7383996,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+289,South,percent_of_population_age_65_or_older,2014,12.60982877,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+290,South,percent_of_population_identifying_as_hispanic,2010,8.50764462,Decennial Census Count,Planning district,27648928.5703125,25914.9929053389
+291,South,percent_of_population_reporting_no_checkup_in_past_year,2019,21.44264667,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,27648928.5703125,25914.9929053389
+292,South,percent_of_population_identifying_as_hispanic,2014,8.41161775,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+293,South,percent_of_population_with_a_disability,2014,15.60537985,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+294,South,percent_of_population_in_poverty,2019,20.26180863,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+295,South,percent_of_population_identifying_as_nh_asian,2010,14.33290194,Decennial Census Count,Planning district,27648928.5703125,25914.9929053389
+296,South,percent_of_adult_population_without_bachelors_degree,2014,78.12617825,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+297,South,percent_of_population_in_poverty,2014,23.50062993,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+298,South,percent_of_population_identifying_as_nh_black,2010,28.22036959,Decennial Census Count,Planning district,27648928.5703125,25914.9929053389
+299,South,percent_of_population_identifying_as_nh_white,2019,48.98573116,American Community Survey 5-Year Estimates,Planning district,27648928.5703125,25914.9929053389
+300,South,percent_of_population_identifying_as_nh_white,2010,46.70589298,Decennial Census Count,Planning district,27648928.5703125,25914.9929053389
+301,University Southwest,percent_of_population_with_a_disability,2014,10.38317849,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+302,University Southwest,unemployment_rate_in_population_16_and_older,2019,8.0192275,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+303,University Southwest,percent_of_population_identifying_as_nh_black,2010,51.70038901,Decennial Census Count,Planning district,20517629.6210938,25957.9381485591
+304,University Southwest,percent_of_population_age_65_or_older,2019,9.2321147,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+305,University Southwest,percent_of_population_identifying_as_hispanic,2010,3.64666161,Decennial Census Count,Planning district,20517629.6210938,25957.9381485591
+306,University Southwest,percent_of_population_identifying_as_nh_white,2010,29.90727375,Decennial Census Count,Planning district,20517629.6210938,25957.9381485591
+307,University Southwest,percent_of_population_identifying_as_nh_white,2014,31.7201223,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+308,University Southwest,percent_of_population_identifying_as_nh_asian,2010,11.53940254,Decennial Census Count,Planning district,20517629.6210938,25957.9381485591
+309,University Southwest,percent_of_population_identifying_as_hispanic,2014,4.09291901,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+310,University Southwest,percent_of_population_identifying_as_nh_white,2019,30.55158652,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+311,University Southwest,percent_of_population_identifying_as_nh_asian,2014,11.27136297,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+312,University Southwest,unemployment_rate_in_population_16_and_older,2014,13.17505381,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+313,University Southwest,percent_of_population_age_65_or_older,2014,7.60130827,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+314,University Southwest,percent_of_population_without_health_insurance,2019,6.78357061,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+315,University Southwest,percent_of_population_with_a_disability,2019,12.99047572,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+316,University Southwest,percent_of_population_reporting_no_checkup_in_past_year,2019,21.68263768,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,20517629.6210938,25957.9381485591
+317,University Southwest,percent_of_population_identifying_as_nh_black,2019,49.4654119,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+318,University Southwest,percent_of_population_identifying_as_nh_black,2014,48.84460307,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+319,University Southwest,percent_of_adult_population_without_bachelors_degree,2014,66.76413217,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+320,University Southwest,percent_of_population_without_health_insurance,2014,12.3383965,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+321,University Southwest,percent_of_population_identifying_as_hispanic,2019,5.28059716,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+322,University Southwest,percent_of_adult_population_without_bachelors_degree,2019,60.89749472,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+323,University Southwest,percent_of_population_identifying_as_nh_asian,2019,11.10317304,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+324,University Southwest,percent_of_population_in_poverty,2014,40.09637778,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+325,University Southwest,percent_of_population_in_poverty,2019,33.51259511,American Community Survey 5-Year Estimates,Planning district,20517629.6210938,25957.9381485591
+326,Upper Far Northeast,percent_of_population_without_health_insurance,2014,11.51290944,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+327,Upper Far Northeast,percent_of_population_with_a_disability,2019,16.54839831,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+328,Upper Far Northeast,percent_of_population_without_health_insurance,2019,7.82019348,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+329,Upper Far Northeast,percent_of_population_age_65_or_older,2019,22.2375455,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+330,Upper Far Northeast,percent_of_population_identifying_as_nh_white,2010,75.27062533,Decennial Census Count,Planning district,46331614.2617188,37906.7336338167
+331,Upper Far Northeast,percent_of_population_identifying_as_nh_asian,2010,11.62825614,Decennial Census Count,Planning district,46331614.2617188,37906.7336338167
+332,Upper Far Northeast,percent_of_population_age_65_or_older,2014,21.25818325,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+333,Upper Far Northeast,percent_of_population_identifying_as_hispanic,2014,4.91131712,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+334,Upper Far Northeast,percent_of_population_identifying_as_nh_black,2010,5.82688987,Decennial Census Count,Planning district,46331614.2617188,37906.7336338167
+335,Upper Far Northeast,percent_of_population_identifying_as_hispanic,2019,6.89831665,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+336,Upper Far Northeast,unemployment_rate_in_population_16_and_older,2019,6.43092998,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+337,Upper Far Northeast,percent_of_population_identifying_as_hispanic,2010,4.98761354,Decennial Census Count,Planning district,46331614.2617188,37906.7336338167
+338,Upper Far Northeast,percent_of_population_identifying_as_nh_white,2019,67.5713717,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+339,Upper Far Northeast,percent_of_adult_population_without_bachelors_degree,2014,72.69069389,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+340,Upper Far Northeast,percent_of_population_identifying_as_nh_asian,2019,15.19847589,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+341,Upper Far Northeast,unemployment_rate_in_population_16_and_older,2014,8.84281326,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+342,Upper Far Northeast,percent_of_population_in_poverty,2019,13.42750022,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+343,Upper Far Northeast,percent_of_population_identifying_as_nh_black,2019,6.82296406,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+344,Upper Far Northeast,percent_of_population_with_a_disability,2014,16.12793834,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+345,Upper Far Northeast,percent_of_population_identifying_as_nh_asian,2014,11.63422294,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+346,Upper Far Northeast,percent_of_population_reporting_no_checkup_in_past_year,2019,19.76782824,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,46331614.2617188,37906.7336338167
+347,Upper Far Northeast,percent_of_population_identifying_as_nh_black,2014,6.24952586,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+348,Upper Far Northeast,percent_of_adult_population_without_bachelors_degree,2019,65.44830448,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+349,Upper Far Northeast,percent_of_population_identifying_as_nh_white,2014,75.33720736,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+350,Upper Far Northeast,percent_of_population_in_poverty,2014,11.89767628,American Community Survey 5-Year Estimates,Planning district,46331614.2617188,37906.7336338167
+351,Upper North,unemployment_rate_in_population_16_and_older,2014,19.70086939,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+352,Upper North,percent_of_population_identifying_as_nh_white,2014,4.34494153,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+353,Upper North,percent_of_population_identifying_as_nh_black,2019,78.77711768,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+354,Upper North,percent_of_population_identifying_as_nh_white,2019,4.02443095,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+355,Upper North,percent_of_population_with_a_disability,2014,16.50524022,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+356,Upper North,percent_of_population_identifying_as_hispanic,2019,9.45330752,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+357,Upper North,percent_of_population_age_65_or_older,2014,12.50802707,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+358,Upper North,percent_of_population_without_health_insurance,2019,9.08419894,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+359,Upper North,percent_of_population_identifying_as_nh_asian,2019,5.00767639,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+360,Upper North,percent_of_population_with_a_disability,2019,18.49115602,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+361,Upper North,percent_of_population_in_poverty,2019,23.60500946,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+362,Upper North,percent_of_population_identifying_as_nh_black,2014,77.13148376,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+363,Upper North,percent_of_population_age_65_or_older,2019,15.48027502,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+364,Upper North,unemployment_rate_in_population_16_and_older,2019,13.33519224,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+365,Upper North,percent_of_population_identifying_as_nh_black,2010,78.52487516,Decennial Census Count,Planning district,35358617.59375,29542.3807728791
+366,Upper North,percent_of_population_identifying_as_hispanic,2014,9.67867464,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+367,Upper North,percent_of_population_reporting_no_checkup_in_past_year,2019,16.77303385,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,35358617.59375,29542.3807728791
+368,Upper North,percent_of_population_without_health_insurance,2014,14.66170956,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+369,Upper North,percent_of_population_identifying_as_nh_asian,2014,6.92090305,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+370,Upper North,percent_of_adult_population_without_bachelors_degree,2014,84.6173166,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+371,Upper North,percent_of_population_in_poverty,2014,24.99008227,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+372,Upper North,percent_of_adult_population_without_bachelors_degree,2019,81.97403176,American Community Survey 5-Year Estimates,Planning district,35358617.59375,29542.3807728791
+373,Upper North,percent_of_population_identifying_as_nh_white,2010,4.58439822,Decennial Census Count,Planning district,35358617.59375,29542.3807728791
+374,Upper North,percent_of_population_identifying_as_hispanic,2010,8.7179061,Decennial Census Count,Planning district,35358617.59375,29542.3807728791
+375,Upper North,percent_of_population_identifying_as_nh_asian,2010,5.89689779,Decennial Census Count,Planning district,35358617.59375,29542.3807728791
+376,Upper Northwest,percent_of_adult_population_without_bachelors_degree,2014,63.99555946,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+377,Upper Northwest,percent_of_population_identifying_as_nh_black,2010,68.25355787,Decennial Census Count,Planning district,45269909.765625,32725.2785751424
+378,Upper Northwest,percent_of_population_identifying_as_nh_black,2019,64.44233815,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+379,Upper Northwest,unemployment_rate_in_population_16_and_older,2019,8.70100715,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+380,Upper Northwest,percent_of_population_in_poverty,2019,21.76804271,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+381,Upper Northwest,percent_of_population_age_65_or_older,2019,17.3615526,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+382,Upper Northwest,percent_of_population_without_health_insurance,2019,5.36722499,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+383,Upper Northwest,percent_of_adult_population_without_bachelors_degree,2019,59.3564679,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+384,Upper Northwest,unemployment_rate_in_population_16_and_older,2014,14.50413714,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+385,Upper Northwest,percent_of_population_with_a_disability,2019,17.04149807,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+386,Upper Northwest,percent_of_population_in_poverty,2014,23.0092526,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+387,Upper Northwest,percent_of_population_identifying_as_hispanic,2010,3.18945154,Decennial Census Count,Planning district,45269909.765625,32725.2785751424
+388,Upper Northwest,percent_of_population_without_health_insurance,2014,10.64660835,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+389,Upper Northwest,percent_of_population_identifying_as_nh_asian,2014,1.4149625,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+390,Upper Northwest,percent_of_population_reporting_no_checkup_in_past_year,2019,16.61079877,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,45269909.765625,32725.2785751424
+391,Upper Northwest,percent_of_population_identifying_as_hispanic,2014,3.1292216,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+392,Upper Northwest,percent_of_population_identifying_as_nh_asian,2019,1.93381342,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+393,Upper Northwest,percent_of_population_with_a_disability,2014,14.42352078,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+394,Upper Northwest,percent_of_population_identifying_as_hispanic,2019,3.51161097,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+395,Upper Northwest,percent_of_population_identifying_as_nh_black,2014,66.38794429,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+396,Upper Northwest,percent_of_population_identifying_as_nh_white,2019,26.39256528,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+397,Upper Northwest,percent_of_population_identifying_as_nh_asian,2010,1.25744773,Decennial Census Count,Planning district,45269909.765625,32725.2785751424
+398,Upper Northwest,percent_of_population_age_65_or_older,2014,15.48553361,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+399,Upper Northwest,percent_of_population_identifying_as_nh_white,2014,25.59393488,American Community Survey 5-Year Estimates,Planning district,45269909.765625,32725.2785751424
+400,Upper Northwest,percent_of_population_identifying_as_nh_white,2010,24.33572679,Decennial Census Count,Planning district,45269909.765625,32725.2785751424
+401,West,percent_of_population_identifying_as_nh_white,2019,4.01729838,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+402,West,percent_of_population_without_health_insurance,2014,16.76538426,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+403,West,percent_of_population_identifying_as_nh_white,2014,3.05159386,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+404,West,percent_of_population_identifying_as_nh_asian,2010,0.75632798,Decennial Census Count,Planning district,20609377.1835938,27025.1724586108
+405,West,percent_of_population_identifying_as_nh_black,2014,92.11062485,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+406,West,percent_of_population_with_a_disability,2019,18.37438252,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+407,West,percent_of_population_identifying_as_hispanic,2010,2.26330437,Decennial Census Count,Planning district,20609377.1835938,27025.1724586108
+408,West,percent_of_population_identifying_as_nh_black,2019,90.23729165,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+409,West,percent_of_population_without_health_insurance,2019,8.84637539,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+410,West,percent_of_population_reporting_no_checkup_in_past_year,2019,15.55155336,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,20609377.1835938,27025.1724586108
+411,West,percent_of_population_with_a_disability,2014,17.38536765,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+412,West,percent_of_population_identifying_as_nh_black,2010,91.76274588,Decennial Census Count,Planning district,20609377.1835938,27025.1724586108
+413,West,percent_of_population_in_poverty,2019,32.83382698,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+414,West,percent_of_population_in_poverty,2014,34.3986232,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+415,West,percent_of_population_identifying_as_hispanic,2014,2.41660652,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+416,West,unemployment_rate_in_population_16_and_older,2019,12.62510818,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+417,West,percent_of_population_age_65_or_older,2014,13.26151794,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+418,West,percent_of_population_age_65_or_older,2019,13.14469698,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+419,West,percent_of_population_identifying_as_hispanic,2019,2.95643467,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+420,West,percent_of_adult_population_without_bachelors_degree,2014,87.5176781,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+421,West,percent_of_population_identifying_as_nh_asian,2014,0.66787878,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+422,West,unemployment_rate_in_population_16_and_older,2014,20.19643253,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+423,West,percent_of_population_identifying_as_nh_asian,2019,1.17135236,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+424,West,percent_of_population_identifying_as_nh_white,2010,2.89089567,Decennial Census Count,Planning district,20609377.1835938,27025.1724586108
+425,West,percent_of_adult_population_without_bachelors_degree,2019,82.95228832,American Community Survey 5-Year Estimates,Planning district,20609377.1835938,27025.1724586108
+426,West Park,percent_of_population_identifying_as_nh_white,2010,18.58747181,Decennial Census Count,Planning district,30292349.1484375,39826.1782375472
+427,West Park,percent_of_population_identifying_as_hispanic,2010,2.63266903,Decennial Census Count,Planning district,30292349.1484375,39826.1782375472
+428,West Park,percent_of_population_age_65_or_older,2019,16.57404526,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+429,West Park,percent_of_population_identifying_as_nh_black,2010,72.85175128,Decennial Census Count,Planning district,30292349.1484375,39826.1782375472
+430,West Park,percent_of_population_identifying_as_nh_asian,2010,3.27242601,Decennial Census Count,Planning district,30292349.1484375,39826.1782375472
+431,West Park,unemployment_rate_in_population_16_and_older,2019,7.71120411,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+432,West Park,unemployment_rate_in_population_16_and_older,2014,13.37012333,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+433,West Park,percent_of_population_identifying_as_hispanic,2014,3.2556986,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+434,West Park,percent_of_population_age_65_or_older,2014,15.68217933,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+435,West Park,percent_of_population_without_health_insurance,2019,5.1017179,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+436,West Park,percent_of_population_without_health_insurance,2014,13.06272216,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+437,West Park,percent_of_population_identifying_as_hispanic,2019,3.22767083,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+438,West Park,percent_of_population_with_a_disability,2019,18.5375226,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+439,West Park,percent_of_adult_population_without_bachelors_degree,2014,72.63037821,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+440,West Park,percent_of_population_identifying_as_nh_asian,2014,4.33116136,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+441,West Park,percent_of_population_identifying_as_nh_black,2019,74.97221358,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+442,West Park,percent_of_population_in_poverty,2019,27.24823969,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+443,West Park,percent_of_population_identifying_as_nh_black,2014,70.53412396,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+444,West Park,percent_of_population_identifying_as_nh_asian,2019,3.91899702,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+445,West Park,percent_of_population_reporting_no_checkup_in_past_year,2019,17.0568956,Behavioral Risk Factor Surveillance System PLACES Small Area Estimates,Planning district,30292349.1484375,39826.1782375472
+446,West Park,percent_of_population_identifying_as_nh_white,2014,19.11482876,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+447,West Park,percent_of_population_with_a_disability,2014,14.75518863,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+448,West Park,percent_of_population_identifying_as_nh_white,2019,14.76459343,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+449,West Park,percent_of_population_in_poverty,2014,27.94876697,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
+450,West Park,percent_of_adult_population_without_bachelors_degree,2019,68.27227499,American Community Survey 5-Year Estimates,Planning district,30292349.1484375,39826.1782375472
