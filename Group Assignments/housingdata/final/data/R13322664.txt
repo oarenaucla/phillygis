@@ -1,0 +1,217 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13322664
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2021 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2021 (5-Year Estimates)
+Tables:
+
+      1. Median Year Structure Built
+         Universe:  Housing units
+         Name:      A10057
+         Variables:
+            A10057_001:   Median Year Structure Built
+
+
+      2. White vs Non-White Homeowners
+         Universe:  Owner Occupied Housing Units
+         Name:      B10060
+         Variables:
+            B10060_001:   Owner Occupied Housing Units:
+            B10060_002:      White Alone, Not Hispanic or Latino Homeowners 
+            B10060_003:      Non-White Homeowners
+
+
+      3. Owner-Occupied Housing Units
+         Universe:  Owner-occupied housing units
+         Name:      A10045
+         Variables:
+            A10045_001:   Owner-Occupied Housing Units
+
+
+      4. Housing Units
+         Universe:  Housing units
+         Name:      A10001
+         Variables:
+            A10001_001:   Housing Units
+
+
+      5. Households by Race of Householder
+         Universe:  Households
+         Name:      A10010
+         Variables:
+            A10010_001:   Households:
+            A10010_002:      With a Householder Who Is White Alone
+            A10010_003:      With a Householder Who Is Black or African  American Alone
+            A10010_004:      With a Householder Who Is American Indian and  Alaska Native Alone
+            A10010_005:      With a Householder Who Is Asian Alone
+            A10010_006:      With a Householder Who Is Native Hawaiian and  Other Pacific Islander Alone
+            A10010_007:      With a Householder Who Is Some Other Race Alone
+            A10010_008:      With a Householder Who Is Two or More Races
+            A10010_009:      With a Householder Who Is Hispanic or Latino
+            A10010_010:      With a Householder Who Is White Alone, Not  Hispanic or Latino
+
+
+      6. Race (Renter-Occupied Housing Units)
+         Universe:  Universe:  Renter-Occupied Housing Units
+         Name:      A03001B
+         Variables:
+            A03001B_001:   Renter-Occupied Housing Units:
+            A03001B_002:      White Alone Householder
+            A03001B_003:      Black or African American Alone Householder
+            A03001B_004:      American Indian and Alaska Native Alone Householder
+            A03001B_005:      Asian Alone Householder
+            A03001B_006:      Native Hawaiian and Other Pacific Islander Alone Householder
+            A03001B_007:      Some Other Race Alone Householder
+            A03001B_008:      Two or More Races Householder
+            A03001B_009:      White Alone, Not Hispanic or Latino Householder
+            A03001B_010:      Hispanic or Latino Householder
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FILEID:         File identification
+      STUSAB:         State Postal Abbreviation
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Census Region
+      DIVISION:       Census Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS Code)
+      COUNTY:         County of current residence
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/AlaskaNative Area/ Hawaiian Home Land(Census)
+      AIANHHFP:       American Indian Area/AlaskaNative Area/ Hawaiian Home Land(FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian TribalSubdivision (Census)
+      AITS:           American Indian TribalSubdivision (FIPS)
+      ANRC:           Alaska Native RegionalCorporation (FIPS)
+      CBSA:           Metropolitan and MicropolitanStatistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Statistical Area-Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/MicropolitanIndicator Flag
+      NECTA:          New England City and Town Area
+      CNECTA:         New England City and TownCombined Statistical Area
+      NECTADIV:       New England City and Town AreaDivision
+      UA:             Urban Area
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      ZCTA5:          5-digit ZIP Code Tabulation Area
+      SUBMCD:         Subminor Civil Division (FIPS)
+      SDELM:          State-School District (Elementary)
+      SDSEC:          State-School District (Secondary)
+      SDUNI:          State-School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      PUMA5:          Public Use Microdata Area – 5%File
+      GEOID:          Geographic Identifier
+      NAME:           Area Name
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      QName:          Qualifying Name
+      FIPS:           FIPS
+      AREALAND:       Area (Land)
+      AREAWATR:       Area (Water)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      UACP:           Urban Area Central Place
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      PUMA1:          Public Use Microdata Area - 1% File
+      A10057_001:     Median Year Structure Built
+      B10060_001:     Owner Occupied Housing Units
+      B10060_002:     Owner Occupied Housing Units: White Alone, Not Hispanic or Latino Homeowners 
+      B10060_003:     Owner Occupied Housing Units: Non-White Homeowners
+      PCT_B10060_002: % Owner Occupied Housing Units: White Alone, Not Hispanic or Latino Homeowners 
+      PCT_B10060_003: % Owner Occupied Housing Units: Non-White Homeowners
+      A10045_001:     Owner-Occupied Housing Units
+      A10001_001:     Housing Units
+      A10010_001:     Households:
+      A10010_002:     Households: with a Householder Who Is White Alone
+      A10010_003:     Households: with a Householder Who Is Black or African  American Alone
+      A10010_004:     Households: with a Householder Who Is American Indian and  Alaska Native Alone
+      A10010_005:     Households: with a Householder Who Is Asian Alone
+      A10010_006:     Households: with a Householder Who Is Native Hawaiian and  Other Pacific Islander Alone
+      A10010_007:     Households: with a Householder Who Is Some Other Race Alone
+      A10010_008:     Households: with a Householder Who Is Two or More Races
+      A10010_009:     Households: with a Householder Who Is Hispanic or Latino
+      A10010_010:     Households: with a Householder Who Is White Alone, Not  Hispanic or Latino
+      PCT_A10010_002: % Households: with a Householder Who Is White Alone
+      PCT_A10010_003: % Households: with a Householder Who Is Black or African  American Alone
+      PCT_A10010_004: % Households: with a Householder Who Is American Indian and  Alaska Native Alone
+      PCT_A10010_005: % Households: with a Householder Who Is Asian Alone
+      PCT_A10010_006: % Households: with a Householder Who Is Native Hawaiian and  Other Pacific Islander Alone
+      PCT_A10010_007: % Households: with a Householder Who Is Some Other Race Alone
+      PCT_A10010_008: % Households: with a Householder Who Is Two or More Races
+      PCT_A10010_009: % Households: with a Householder Who Is Hispanic or Latino
+      PCT_A10010_010: % Households: with a Householder Who Is White Alone, Not  Hispanic or Latino
+      A03001B_001:    Renter-Occupied Housing Units
+      A03001B_002:    Renter-Occupied Housing Units: White Alone Householder
+      A03001B_003:    Renter-Occupied Housing Units: Black or African American Alone Householder
+      A03001B_004:    Renter-Occupied Housing Units: American Indian and Alaska Native Alone Householder
+      A03001B_005:    Renter-Occupied Housing Units: Asian Alone Householder
+      A03001B_006:    Renter-Occupied Housing Units: Native Hawaiian and Other Pacific Islander Alone Householder
+      A03001B_007:    Renter-Occupied Housing Units: Some Other Race Alone Householder
+      A03001B_008:    Renter-Occupied Housing Units: Two or More Races Householder
+      A03001B_009:    Renter-Occupied Housing Units: White Alone, Not Hispanic or Latino Householder
+      A03001B_010:    Renter-Occupied Housing Units: Hispanic or Latino Householder
+      PCT_A03001B_002: % Renter-Occupied Housing Units: White Alone Householder
+      PCT_A03001B_003: % Renter-Occupied Housing Units: Black or African American Alone Householder
+      PCT_A03001B_004: % Renter-Occupied Housing Units: American Indian and Alaska Native Alone Householder
+      PCT_A03001B_005: % Renter-Occupied Housing Units: Asian Alone Householder
+      PCT_A03001B_006: % Renter-Occupied Housing Units: Native Hawaiian and Other Pacific Islander Alone Householder
+      PCT_A03001B_007: % Renter-Occupied Housing Units: Some Other Race Alone Householder
+      PCT_A03001B_008: % Renter-Occupied Housing Units: Two or More Races Householder
+      PCT_A03001B_009: % Renter-Occupied Housing Units: White Alone, Not Hispanic or Latino Householder
+      PCT_A03001B_010: % Renter-Occupied Housing Units: Hispanic or Latino Householder
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13322664
+
+If you have any questions contact info@socialexplorer.com

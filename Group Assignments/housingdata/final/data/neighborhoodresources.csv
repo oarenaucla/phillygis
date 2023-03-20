@@ -1,0 +1,47 @@
+﻿X,Y,OBJECTID,AGENCY,STREET_ADDRESS,ZIP_CODE,PHONE_NUMBER,WEBSITE_URL,FORECLOSURE,PRE_PURCHASE,SPECIALTY,NAC_COORDINATOR,EMAIL_ADDRESS,NAC,NEC,HCA
+-75.2014792748419,39.9621387998024,1,People's Emergency Center CDC,3939 Warren St,19104,267-777-5820,pec-cares.org,,,,Kevin Brown,kevinb@pec-cares.org,Yes,,
+-75.1853851129851,39.9772604150393,2,Brewerytown-Sharswood Civic Association,"3000 ""D"" Master St",19121,267-858-4266,brewerytownsharswood.org,,Null,,Rose Levere,rlevere@brewerytownsharswoodnac.org,Yes,,
+-75.1443648842972,39.9829914815804,3,Asociación Puertorriqueños en Marcha (APM),600 W Diamond St,19122,(215) 235-6070,apmphila.org,Yes,Yes,,Victoria Cubillos-Canon,victoria.cubillos-canon@apmphila.org,Yes,,Yes
+-75.2119824523646,39.9693857931274,4,We Never Say Never,4427 Lancaster Ave,19104,(215) 452-0440, ,,,,,,,Yes,
+-75.1797388278004,39.9879363379297,5,"Strawberry Mansion Neighborhood Action Center, Inc.",2829 W Diamond St,19121,(215) 235-7505,strawberrymansioncdc.org,,,,Lawrence Battle,lawrencebattlejr@strawberrymansionnac.org,Yes,Yes,
+-75.1536915680348,39.9573031576415,6,Philadelphia Chinatown Development Corporation,"301-305 N 9th St
+",19107,(215) 922-2156,chinatown-pcdc.org,Yes,Yes,No,Yue Wu,ywu@chinatown-pcdc.org,Yes,Yes,Yes
+-75.0836969488182,40.0162012428485,7,Frankford CDC,4667- 69 Paul St,19124,(215) 743-6580,frankfordcdc.org,,,,Christine DeJesus,cdejesus.fcdc@gmail.com,Yes,Yes,
+-75.1694044158316,40.0321731286155,8,Germantown United,5320 Germantown Ave,19144,(215) 856-4303,germantownunitedcdc.org,,,,Rhakeim Miller,rmiller@germantownunitedcdc.org,Yes,,
+-75.1436328290953,40.0097942254058,9,Hunting Park NAC,3760 N Delhi St,19140,(215) 225-5560,huntingparknac.org,,,,Luz Laboy,hunting.parknac@verizon.net,Yes,Yes,
+-75.199442056297,39.9641373499404,10,Mt. Vernon Manor CDC,631 N 39th St,19104,(215) 475-9492,mvmcdc.org,,,,Lorraine Gomez,lorraine@mvmcdc.org,Yes,Yes,
+-75.1560842978222,40.0192153351973,11,Nicetown CDC,4300 Germantown Ave,19140,(215) 329-1824,nicetowncdc.org,,,,Sandra Harmon,sandra@nicetowncdc.org,Yes,Yes,
+-75.1546108682503,40.0082378111828,12,"Tioga United, Inc.",1539 W Venango St,19140,(215) 639-6912,,,,,Elizabeth Stokes,tiogaunited@hotmail.com,Yes,,
+-75.2239572867329,39.9810702161492,13,UAC/Parkside Association of Philadelphia,1719 N 52nd St,19131,"(215) 877-1198
+",parksideassociation.org,,,,Shakia Boulware,sboulware@parksideassociation.org,Yes,,
+-75.1523740511628,39.917143415743,14,"Whitman Council, Inc. ",2455 S 3rd St,19148,(215) 468-4056,whitmancouncil.com,,,,Maryanne Daniels,whitmancouncilinc@gmail.com,Yes,,
+-75.239088019834,39.9620631434449,15,ACHIEVEability,5901 Market St,19139,(215) 748-8800,achieveability.org,,,,Yolanda Mack,yolanda.mack@achieve-ability.org,Yes,Yes,
+-75.1760772519709,40.037068287166,16,Center in the Park,5818 Germantown Ave,19144,(215) 848-7722,centerintheparkphila.org,Yes,Yes,SENIOR,,,,Yes,Yes
+-75.1402392561166,39.9711572752033,17,"South Kensington Community Partners, Inc. ","227 W Thompson St, Unit A",19122,(215) 427-3463,southkensingtoncommunity.org,,,,Rasheed Davis,info@southkensingtoncommunity.org,Yes,,
+-75.2263145178228,39.9604114164926,18,The Enterprise Center CDC,5243 Market St,19139,(215) 895-4074,theenterprisecenter.com,,,,Jamar Bordley,jbordley@theenterprisecenter.com,Yes,,
+-75.1757095069038,40.0353621719292,19,Germantown Crisis Ministry,35 W Chelten Ave,19144,(215) 843-2340,crisisministry.org,,,,,,,Yes,
+-75.1643340313315,39.950280958201,20,Tenant Union Representative Network,"100 S Broad St, Suite 800",19110,(215) 940-3900,rturn.net,No,No,RENTER,,,,,Yes
+-75.0587408003474,40.0278722469402,21,Affordable Housing Centers of PA: Northeast Office,"6325 Frankford Ave, Unit D",19135,(215) 624-0221,ahcopa.org,Yes,Yes, ,,,,,Yes
+-75.1316011321701,39.99938748905,22,HACE: Central Office,167 W Allegheny Ave,19140,(215) 426-8025,hacecdc.org,Yes,Yes, ,Stasia Monteiro,smonteiro@hacecdc.org,Yes,,Yes
+-75.1851493457833,40.0522642369506,23,Mt. Airy USA,"6703 Germantown Ave, Suite 200",19119,(215) 844-6021,mtairyusa.org,Yes,Yes, ,,,,,Yes
+-75.1225643112826,39.9904428945475,24,New Kensington CDC,"2771 Ruth St, Suite 1",19134,(215) 427-0350,nkcdc.org,Yes,Yes, ,Katsi Miranda-Lozada,kmiranda-lozada@nkcdc.org,Yes,Yes,Yes
+-75.1322532685995,40.0269225413141,25,"Greater Philadelphia Asian Social Service Center (GPASS)
+",4943 N 5th St,19120,(215) 456-1662,gpasspa.org,Yes,Yes, ,Larry White,lwhite@gpasspa.org,Yes,Yes,Yes
+-75.2075242875974,39.956706490999,26,Intercultural Family Services,4225 Chestnut St,19104,(215) 386-1298,ifsinc.org,Yes,Yes, ,,,,,Yes
+-75.14128403848,40.0530026215147,27,Northwest Counseling Service,6521 N Broad St,19126,(215) 324-7500,nwcsinc.org,Yes,Yes, ,,,,,Yes
+-75.1354296029208,39.9929488093076,28,Congreso de Latinos Unidos,216 W Somerset St,19133,(215) 763-8870 ,congreso.net,Yes,Yes, ,,,,Yes,Yes
+-75.134116379562,40.0159199257295,29,Esperanza,4261 N 5th St,19140,(215) 324-0746,esperanza.us,Yes,Yes, ,,,,,Yes
+-75.1681322518342,39.9495429077794,30,Clarifi,"1635 Market St, Suite 510",19103,(215) 563-5665,clarifi.org,Yes,Yes, ,,,,,Yes
+-75.0810094736408,40.0193659032732,31,HACE: Frankford Office,4907 Frankford Ave,19124,(215) 437-7867,hacecdc.org,Yes,Yes, ,,,,Yes,Yes
+-75.2310046728162,39.9256008803499,32,Southwest CDC,6328 Paschall Ave,19142,(215) 729-0800,southwestcdc.org,Yes,Yes, ,Mark Harrell,mark@southwestcdc.org,Yes,Yes,Yes
+-75.1635879139421,39.9549779328143,33,Unemployment Information Center,"112 N Broad St, 11th Floor",19102,(215) 557-0822,philaup.org,Yes,Yes, ,,,,,Yes
+-75.1637002421946,39.9502278591427,34,Urban League of Philadelphia,"121 S Broad St, 9th Floor",19107,(215) 985-3220,urbanleaguephila.org,Yes,Yes, ,,,,,Yes
+-75.1715642536767,40.0811102494044,35,West Oak Lane CDC,1624 Wadsworth Ave,19150,(215) 224-8339,westoaklanecdc.org,Yes,Yes, ,,,,,Yes
+-75.1603660781139,39.9695211759474,36,Affordable Housing Centers of Pennsylvania,846 N Broad St,19130,(215) 765-1221,ahcopa.org,Yes,Yes, ,,,,,Yes
+-75.1532957935772,39.9537934238215,37,Liberty Resources,"112 N 8th St, Suite 600",19107,(215) 634-2000,libertyresources.org,Yes,No,DISABILITY,,,,,Yes
+-75.2139851598693,40.0275460000421,38,Intercommunity Action (Senior Center),403 Rector St,19128,(215) 487-1750,intercommunityaction.org,Yes,No,SENIOR,,,,,Yes
+-75.164945407929,39.9441942223168,39,Philadelphia Senior Center,509 S Broad St,19147,(215) 546-5879,philaseniorcenter.org,Yes,No,SENIOR,,,,,Yes
+-75.178977563415,39.9274664284806,40,Greater Philadelphia Community Alliance (GPCA) Dixon House,1920 S 20th St,19145,(215) 336-3511,www.GPCA-phila.org,Yes,Yes,,,,,,Yes
+-75.1594907304296,39.9232656562484,41,Greater Philadelphia Community Alliance (GPCA) Houston Center,2029 S 8th St,19148,(215) 468-1645,www.GPCA-phila.org,Yes,Yes, ,,,,Yes,Yes
+-75.1355118881878,39.9816198144974,42,Norris Square Community Alliance,174 Diamond St,19122,(215) 426-8734,nscaphila.org/,Yes,Yes, ,,,,,Yes
+-75.2390516708899,39.9620559914357,43,Affordable Housing Centers of PA,"5901 Market St, Suite 104",19139,(215) 648-1728,ahcopa.org/,Yes,Yes,,,,,,Yes

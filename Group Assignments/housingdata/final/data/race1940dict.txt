@@ -1,0 +1,116 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13329726
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           Census 1940 Census Tract Only
+Dataset:          Social Explorer Tables
+Tables:
+
+      1. Race
+         Universe:  Total Population
+         Name:      T9
+         Variables:
+            T009_001:   Total Population:
+            T009_002:      White
+            T009_003:      Black
+            T009_004:      Other
+
+
+      2. Race (Short Version: White/Nonwhite)
+         Universe:  Total Population
+         Name:      T10
+         Variables:
+            T010_001:   Total Population:
+            T010_002:      White
+            T010_003:      Nonwhite
+
+
+      3. Total Population
+         Universe:  Total Population
+         Name:      T1
+         Variables:
+            T001_001:   Total Population
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           Federal Information Processing System Code
+      SL040_FIPS:     State FIPS
+      SL050_FIPS:     County FIPS
+      SL140_FIPS:     Tract FIPS
+      GISJOIN:        NHGIS Join Field
+      GISJOIN2:       NHGIS Join Field 2
+      state:          State Code
+      county:         County Code
+      prefix:         Tract Prefix
+      tract:          Tract Code
+      suffix:         Tract Suffix
+      SUMLEV:         Summary Level
+      SL040_Name:     State Name
+      SL050_Name:     County Name
+      Name:           Name
+      LongName:       Long Name
+      QName:          Full Name
+      QName2:         Full Name 2
+      seq:            Tract Sequence
+      NHGISST:        NHGIS State Code
+      NHGISCTY:       NHGIS County Code
+      areatotal:      Area Total (sq. miles)
+      shape_area:     shape_area
+      shape_len:      shape_len
+      year:           Year
+      T009_001:       Total Population
+      T009_002:       White
+      T009_003:       Black
+      T009_004:       Other
+      PCT_T009_002:   % White
+      PCT_T009_003:   % Black
+      PCT_T009_004:   % Other
+      T010_001:       Total Population
+      T010_002:       White
+      T010_003:       Nonwhite
+      PCT_T010_002:   % White
+      PCT_T010_003:   % Nonwhite
+      T001_001:       Total Population
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13329726
+
+If you have any questions contact info@socialexplorer.com
